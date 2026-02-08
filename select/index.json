@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "キミ記念日 〜生まれて来てくれてアリガトウ。〜",
+  "base_artist": "Sonar Pocket",
+  "createdAt": "2026-02-08T16:41:08.808329Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "キミ記念日 ～生まれて来てくれてアリガトウ。～",
+      "artist": "ソナーポケット",
+      "has_synced": false,
+      "path": "select/pl_01_キミ記念日_~生まれて来てくれてアリガトウ。~_ソナーポケット.txt"
+    }
+  ]
+}
